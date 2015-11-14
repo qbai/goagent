@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ED919A16-9C57-4606-8DCE-E57D88F776D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GoAgentX</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E916FC8814D0F5E9A466C6AF0E0FC9C6DDEE3699</key>
+		<string>https://github.com/ohdarling/GoAgentX</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GoAgentX.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E916FC8814D0F5E9A466C6AF0E0FC9C6DDEE3699</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ohdarling/GoAgentX</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E916FC8814D0F5E9A466C6AF0E0FC9C6DDEE3699</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E916FC8814D0F5E9A466C6AF0E0FC9C6DDEE3699</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GoAgentX</string>
+		</dict>
+	</array>
+</dict>
+</plist>
